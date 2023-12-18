@@ -2,10 +2,30 @@
   
     {
 
+      "title"    : "Glen helen",
+      "url"      : "/landscape/2023/12/18/glen-helen.html",
+      "category" : "",
+      "tags"     : "d700, 50mm, F1.4D, F8, 1/60s, iso800",
+      "date"     : "2023-12-18 00:00:00 +0000"
+
+    } ,
+  
+    {
+
+      "title"    : "Eilat",
+      "url"      : "/landscape/2023/12/18/eilat.html",
+      "category" : "",
+      "tags"     : "eilat, israel, d700, 24-85mm, f3.5-4.5g, f3.5, 1/500s, iso250, 24mm",
+      "date"     : "2023-12-18 00:00:00 +0000"
+
+    } ,
+  
+    {
+
       "title"    : "Antrim lake",
       "url"      : "/landscape/2023/12/18/antrim-lake.html",
       "category" : "",
-      "tags"     : "lake, antrim, d700, f2/d, 35mm, f8, 1/800s",
+      "tags"     : "lake, antrim, d700, f2d, 35mm, f8, 1/800s",
       "date"     : "2023-12-18 00:00:00 +0000"
 
     } 
