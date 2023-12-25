@@ -2,6 +2,16 @@
   
     {
 
+      "title"    : "Cambridge",
+      "url"      : "/street/2023/12/25/cambridge.html",
+      "category" : "",
+      "tags"     : "cambridge, ohio, d700, 24-85, f4.5, 1/100s, iso200, 35mm",
+      "date"     : "2023-12-25 00:00:00 +0000"
+
+    } ,
+  
+    {
+
       "title"    : "Yosemite",
       "url"      : "/landscape/2023/12/18/yosemite.html",
       "category" : "",
@@ -22,8 +32,8 @@
   
     {
 
-      "title"    : "Eilat",
-      "url"      : "/landscape/2023/12/18/eilat.html",
+      "title"    : "Eilat israel",
+      "url"      : "/landscape/2023/12/18/eilat-israel.html",
       "category" : "",
       "tags"     : "eilat, israel, d700, 24-85mm, f3.5-4.5g, f3.5, 1/500s, iso250, 24mm",
       "date"     : "2023-12-18 00:00:00 +0000"
