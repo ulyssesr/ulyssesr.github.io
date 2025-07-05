@@ -1,7 +1,7 @@
 /**
  * Reset some basic elements
  */
-@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&family=Source+Code+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Bodoni&display=swap");
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -14,10 +14,9 @@ dl, dd, ol, ul, figure {
  */
 body {
   /*font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
-  font-family: "Fira Sans", sans-serif;
-  font-style: italic;
-  color: #111;
-  background-color: #fdfdfd;
+  font-family: "Libre Bodoni", serif;
+  color: #fff;
+  background-color: #111111;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -52,6 +51,8 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  border: 1px solid #444;
+  margin: 10px 0 10px 0;
 }
 
 /**
@@ -88,18 +89,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
-  color: darkred;
+  color: lightblue;
   text-decoration: none;
 }
 
 a:visited {
-  color: #1756a9;
-  color: darkred;
+  color: lightblue;
 }
 
 a:hover {
-  color: #111;
   color: #777;
   text-decoration: underline;
 }
@@ -200,14 +198,14 @@ ul#results-container li {
 }
 
 strong {
-  background-color: #d7d7d7;
+  background-color: teal;
 }
 
 /**
  * Wrapper
  */
 .wrapper {
-  font-size: 18px;
+  font-size: 14px;
   max-width: -webkit-calc(1280px - (30px * 2));
   max-width: 1220px;
   margin-right: auto;
@@ -284,7 +282,7 @@ table td {
  */
 .site-header {
   border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 1px solid #222;
   min-height: 55.95px;
   position: relative;
 }
@@ -299,7 +297,7 @@ table td {
 }
 
 .site-title, .site-title:visited {
-  color: #424242;
+  color: lightblue;
 }
 
 .site-nav {
@@ -375,7 +373,7 @@ table td {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #222;
   padding: 30px 0;
 }
 
@@ -454,7 +452,7 @@ table td {
 }
 
 .post-list-heading {
-  font-size: 28px;
+  font-size: 32px;
 }
 
 .post-list {
@@ -484,14 +482,14 @@ table td {
 }
 
 .post-title {
-  font-size: 42px;
-  letter-spacing: -1px;
+  font-size: 28px;
+  margin-top: 60px;
   line-height: 1;
 }
 
 @media screen and (max-width: 800px) {
   .post-title {
-    font-size: 36px;
+    font-size: 28px;
   }
 }
 .post-content {
@@ -504,7 +502,7 @@ table td {
 
 @media screen and (max-width: 800px) {
   .post-content h2 {
-    font-size: 28px;
+    font-size: 32px;
   }
 }
 .post-content h3 {
@@ -542,7 +540,7 @@ table td {
 }
 
 .highlight .err {
-  color: #a61717;
+  color: lightblue;
   background-color: #e3d2d2;
 }
 
