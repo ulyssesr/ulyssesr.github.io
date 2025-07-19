@@ -2,10 +2,20 @@
   
     {
 
+      "title"    : "Franklin conservatory",
+      "url"      : "/bw/2025/07/19/franklin-conservatory.html",
+      "category" : "",
+      "tags"     : "conservatory, franklin, fuji, xt30ii, 15-45mm",
+      "date"     : "2025-07-19 00:00:00 +0000"
+
+    } ,
+  
+    {
+
       "title"    : "Lake",
       "url"      : "/bw/2025/07/08/lake.html",
       "category" : "",
-      "tags"     : "lake, fuji, 27mm",
+      "tags"     : "lake, fuji, xt30ii, 27mm",
       "date"     : "2025-07-08 00:00:00 +0000"
 
     } ,
@@ -15,7 +25,7 @@
       "title"    : "Ohio sunset",
       "url"      : "/sunset/2025/07/04/sunset.html",
       "category" : "",
-      "tags"     : "sunset, fujifilm, xt30ii, 27mm",
+      "tags"     : "sunset, fuji, xt30ii, 27mm",
       "date"     : "2025-07-04 00:00:00 +0000"
 
     } 
