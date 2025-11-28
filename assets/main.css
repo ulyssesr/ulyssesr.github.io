@@ -206,18 +206,18 @@ strong {
  */
 .wrapper {
   font-size: 16px;
-  max-width: -webkit-calc(960px - (30px * 2));
-  max-width: 900px;
+  max-width: -webkit-calc(1280px - (30px * 2));
+  max-width: 1220px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1210px) {
   .wrapper {
-    max-width: -webkit-calc(960px - (30px));
-    max-width: 930px;
+    max-width: -webkit-calc(1280px - (30px));
+    max-width: 1250px;
     padding-right: 15px;
     padding-left: 15px;
   }
