@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2026-04-12T13:14:31+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">javison.com</title><subtitle></subtitle><entry><title type="html">photography</title><link href="http://0.0.0.0:4000/2026/04/12/photography.html" rel="alternate" type="text/html" title="photography" /><published>2026-04-12T00:00:00+00:00</published><updated>2026-04-12T00:00:00+00:00</updated><id>http://0.0.0.0:4000/2026/04/12/photography</id><content type="html" xml:base="http://0.0.0.0:4000/2026/04/12/photography.html"><![CDATA[<p>Engineer by trade, photographing the ordinary at night.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2026-04-12T13:21:13+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">javison.com</title><subtitle></subtitle><entry><title type="html">photography</title><link href="http://0.0.0.0:4000/2026/04/12/photography.html" rel="alternate" type="text/html" title="photography" /><published>2026-04-12T00:00:00+00:00</published><updated>2026-04-12T00:00:00+00:00</updated><id>http://0.0.0.0:4000/2026/04/12/photography</id><content type="html" xml:base="http://0.0.0.0:4000/2026/04/12/photography.html"><![CDATA[<p>Engineer by trade, photographing the ordinary at night.</p>
 
 <p>Cameras:</p>
 <ul>
@@ -23,6 +23,7 @@
 <p>Galleries:</p>
 <ul>
   <li><a href="https://www.flickr.com/photos/199792240@N07/">flickr</a></li>
+  <li><a href="https://www.flickr.com/photos/ulyssesr/">flickr(old)</a></li>
   <li><a href="https://s3.us-east-2.amazonaws.com/javison.com/index.html">personal</a></li>
 </ul>
 
